@@ -42,6 +42,3 @@ A real-time hand gesture based drawing application built with **MediaPipe** and 
 - **MediaPipe** (Hand Landmark Detection)
 - **OpenCV** (Computer Vision & GUI)
 - **NumPy** (Numerical computations)
-### Prerequisites
-```bash
-pip install opencv-python mediapipe numpy
